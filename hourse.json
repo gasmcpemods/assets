@@ -1,23 +1,23 @@
 {
-  "Ads": [
+ "Ads": [
     {
-       "select_main_ads": "APPLOVIN-D",
+       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-5679606727041049/4956998349",
-      "main_ads_intertitial":"ca-app-pub-5679606727041049/5222105117",
-      "native_for_admob":"ca-app-pub-5679606727041049/5692878403",
-      "backup_ads_banner": "Banner_Android",
-      "backup_ads_intertitial": "Interstitial_Android",
+      "main_ads_banner": "null",
+      "main_ads_intertitial":"null",
+      "native_for_admob":"null",
+      "backup_ads_banner": "null",
+      "backup_ads_intertitial": "null",
       "interval_intertitial": 7,
       "initialize_sdk": "",
-      "initialize_sdk_backup_ads": "4725055",
+      "initialize_sdk_backup_ads": "null",
       "high_paying_keyword_1": "diamond",
       "high_paying_keyword_2": "credit card",
       "high_paying_keyword_3": "payment",
       "high_paying_keyword_4": "bitcoin",
       "high_paying_keyword_5": "travel",
        "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/details?id=com.pinjol.cepat.tanpa.ktp.mudah.cair.ke.wallet.pasti.cair.bos.novembre20"
+      "link_redirect": "null"
      }
   ],
   "Skin": [
