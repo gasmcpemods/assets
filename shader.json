@@ -1,25 +1,24 @@
 {
-  "Ads":
-  [
+ "Ads": [
     {
-      "select_main_ads": "APPLOVIN-D",
-      "select_backup_ads":"SATRTIO",
-      "main_ads_banner": "ca-app-pub-3361819946658765/7661484470",
-      "main_ads_intertitial":"ca-app-pub-3361819946658765/5115212187",
-      "native_for_admob":"ca-app-pub-3361819946658765/2489048847",
-      "backup_ads_banner":"8170898",
-      "backup_ads_intertitial":"8170896",
-      "interval_intertitial": 1,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"149516ad9",
-      "high_paying_keyword_1": "gold",
-      "high_paying_keyword_2": "bank",
-      "high_paying_keyword_3": "forex",
-      "high_paying_keyword_4": "crypto",
-      "high_paying_keyword_5": "bitcoin",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "null",
+      "main_ads_intertitial":"null",
+      "native_for_admob":"null",
+      "backup_ads_banner": "null",
+      "backup_ads_intertitial": "null",
+      "interval_intertitial": 7,
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "null",
+      "high_paying_keyword_1": "diamond",
+      "high_paying_keyword_2": "credit card",
+      "high_paying_keyword_3": "payment",
+      "high_paying_keyword_4": "bitcoin",
+      "high_paying_keyword_5": "travel",
+       "status_app": "0",
+      "link_redirect": "null"
+     }
   ],
 
    "Skin":
